@@ -1,0 +1,6 @@
+{
+  "name": "Мастер Тап",
+  "description": "Поиск проверенных мастеров и специалистов в Кыргызстане. Сантехники, электрики, ремонт квартир с прямым контактом через WhatsApp и по телефону.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
